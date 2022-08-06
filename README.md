@@ -1,4 +1,5 @@
 # git_test
 My first github repo!
 Hello Odin! 
-Edit
+Repetition is the mother of all 
+learning

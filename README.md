@@ -1,7 +1,8 @@
 # Hello world,
 I am currently working on becoming a full stack Developer
 
-My repos the odins recipe and landing page are my latest works on github
+My latest works include a javascript game of "Rock paper scissors"
+a game played on the browser console.
 
 # links to the sites are below;
 

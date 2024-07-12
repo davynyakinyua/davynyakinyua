@@ -1,12 +1,21 @@
-# Hello world,
+# Hi, 
+# Welcome
+
 I am currently working on becoming a full stack Developer
 
 My latest works include a javascript game of "Rock paper scissors"
 a game played on the browser console.
 
-# links to the sites are below;
+# Visit any of my projects using the links below;
 
-# Odin's Recipe
+# Game 
+# (Rock Paper Scissors)
+
+https://davynyakinyua.github.io/rock-paper-scissors/
+
+
+# Simple Website
+# (Odin's Recipe)
 
 https://davynyakinyua.github.io/odin-s-recipes/index.html
 

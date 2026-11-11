@@ -15,7 +15,6 @@
 ### 💻 About Me
 * 💼 **Open to work** as a Frontend/React Developer.
 * 🌱 Continuously sharpening my engineering foundations through **The Odin Project**.
-* 🔭 Focused on mastering **JavaScript (ES6+), React, and modern CSS frameworks**.
 * 💡 Dedicated to building **seamless user experiences and scalable frontend interfaces** that solve real user problems.
 * ⚡ Passionate about clean code, component architecture, and responsive design.
 
@@ -40,10 +39,3 @@
 
 
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davynyakinyua&show_icons=true&theme=radical&hide_border=true" alt="Davyn's GitHub Stats" />
-</p>

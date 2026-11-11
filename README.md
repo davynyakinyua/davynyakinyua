@@ -1,41 +1,53 @@
-# Hi, 
-# Welcome
+<h1 align="center">Hi there 👋, I'm David</h1>
+<h3 align="center">Frontend-focused Web Developer | Building modern, user-centric web applications</h3>
 
-I am currently working on becoming a full stack Developer
+<p align="center">
+  <a href="https://linkedin.com/in/davynya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:davy.nya@live.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
-My latest works involves a myriad of projects utilizing
-the technologies below;
+---
 
-1. HTML5
-2. CSS3
-3. JAVASCRIPT
+### 💻 About Me
+* 🌱 I’m currently sharpening my engineering foundations through **The Odin Project**.
+* 🔭 Focused on mastering **JavaScript (ES6+), React, and modern CSS frameworks**.
+* ⚡ Passionate about clean code, component architecture, and responsive design.
 
-# Visit any of my Live projects using the links below;
+---
 
-# Admin Dashboard
+### 🛠️ Tech Stack & Tools
 
-https://davynyakinyua.github.io/admin-dashboard/
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
-# Sign Up Form
+---
 
-https://davynyakinyua.github.io/sign-up-form/
+### 🚀 Featured Projects
 
-# Calculator
+> *(Replace these with your top 2 or 3 projects from your GitHub repositories)*
 
-https://davynyakinyua.github.io/calculator/
+* **[Project Name 1](https://github.com/davynyakinyua/repo-name)** — *Brief description of what the project does, the problem it solves, and the tech stack used (e.g., React, Tailwind, REST APIs).*
+  * [Live Demo](https://your-live-demo-link.com) | [GitHub Repository](https://github.com/davynyakinyua/repo-name)
 
-# Etch A Sketch
+* **[Project Name 2](https://github.com/davynyakinyua/repo-name-2)** — *Brief description of another standout project highlighting state management or complex UI handling.*
+  * [Live Demo](https://your-live-demo-link.com) | [GitHub Repository](https://github.com/davynyakinyua/repo-name-2)
 
-https://davynyakinyua.github.io/etch-a-sketch/
+---
 
-# Game (Rock Paper Scissors)
+### 📈 GitHub Stats
 
-https://davynyakinyua.github.io/rock-paper-scissors/
-
-# Simple Website (Odin's Recipe)
-
-https://davynyakinyua.github.io/odin-s-recipes/index.html
-
-# Landing page
-
-https://davynyakinyua.github.io/landing-page/index.html
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davynyakinyua&show_icons=true&theme=radical&hide_border=true" alt="Davyn's GitHub Stats" />
+</p>

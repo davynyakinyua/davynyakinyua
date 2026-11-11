@@ -13,8 +13,10 @@
 ---
 
 ### 💻 About Me
-* 🌱 I’m currently sharpening my engineering foundations through **The Odin Project**.
+* 💼 **Open to work** as a Frontend/React Developer.
+* 🌱 Continuously sharpening my engineering foundations through **The Odin Project**.
 * 🔭 Focused on mastering **JavaScript (ES6+), React, and modern CSS frameworks**.
+* 💡 Dedicated to building **seamless user experiences and scalable frontend interfaces** that solve real user problems.
 * ⚡ Passionate about clean code, component architecture, and responsive design.
 
 ---
@@ -36,13 +38,7 @@
 
 ### 🚀 Featured Projects
 
-> *(Replace these with your top 2 or 3 projects from your GitHub repositories)*
 
-* **[Project Name 1](https://github.com/davynyakinyua/repo-name)** — *Brief description of what the project does, the problem it solves, and the tech stack used (e.g., React, Tailwind, REST APIs).*
-  * [Live Demo](https://your-live-demo-link.com) | [GitHub Repository](https://github.com/davynyakinyua/repo-name)
-
-* **[Project Name 2](https://github.com/davynyakinyua/repo-name-2)** — *Brief description of another standout project highlighting state management or complex UI handling.*
-  * [Live Demo](https://your-live-demo-link.com) | [GitHub Repository](https://github.com/davynyakinyua/repo-name-2)
 
 ---
 
